@@ -38,6 +38,10 @@ main {
 	text-align: center;
 }
 
+#calculator {
+	width: 100%;
+}
+
 /* Result / Top Part */
 
 .__result {
