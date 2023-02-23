@@ -98,6 +98,7 @@ main {
 
 .__buttons img {
 	width: var(--font-size-primary);
+	height: auto;
 	opacity: 0.7;
 }
 
