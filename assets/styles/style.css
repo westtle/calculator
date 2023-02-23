@@ -77,6 +77,7 @@ main {
 	border: var(--border-shorthand);
 	border-top: none;
 	height: 50vh;
+	min-height: 15rem;
 	max-height: 17.813rem;
 	padding: var(--twelve);
 	overflow: auto;
